@@ -1,5 +1,5 @@
 
-public class Praticejenkins {
+public class NeWFile {
 
 	public static void main(String args[])
 	{
